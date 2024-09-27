@@ -1,8 +1,8 @@
-# Flags Icons for React Native
+# React Native Flags
 
 ### react-native-nations-flags
 
-259 Vector Icons for React Native
+259 Vector Flag Icons for React Native
 
 <img src="./static/slovenia.png" alt="slovenia" width="150" height="150"> <img src="./static/puerto-rico.png" alt="puerto-rico" width="150" height="150"> <img src="./static/mozambique.png" alt="mozambique" width="150" height="150">
 
