@@ -1,0 +1,27 @@
+{
+  "name": "react-native-nations-flags",
+  "version": "6.1.1",
+  "description": "Flags Icons for React Native",
+  "main": "src/index.jsx",
+  "types": "typings.d.ts",
+  "dependencies": {
+    "react-svg-main": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanoff/react-native-nations-flags.git"
+  },
+  "keywords": [
+    "React",
+    "React Native",
+    "Icons",
+    "Icon",
+    "SVG",
+    "Flags"
+  ],
+  "author": "Dimitry Ivanov <2@ivanoff.org.ua> # curl -A cv ivanoff.org.ua",
+  "bugs": {
+    "url": "https://github.com/ivanoff/react-native-nations-flags/issues"
+  },
+  "homepage": "http://ico.simpleness.org/pack/flags"
+}
